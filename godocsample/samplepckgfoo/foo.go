@@ -1,4 +1,4 @@
-package godocsample
+package samplepckgfoo
 
 import (
 	"fmt"
