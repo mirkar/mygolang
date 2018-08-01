@@ -1,4 +1,7 @@
 .idea
+.vscode
+.project
+.settings
 # Binaries for programs and plugins
 *.exe
 *.exe~
