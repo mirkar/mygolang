@@ -1,6 +1,6 @@
 # My Golang
 
-Just have started polaying with https://pages.github.com/
+Just have started playing with https://pages.github.com/
 
 ```
 /home/dm0434/go
