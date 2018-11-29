@@ -11,8 +11,8 @@ go install github.com/mirkar/mygolang/hello
 #### Set proxy when executing “go get” command
 
 In Windows, if you have configured proxy for connecting Internet, then executing “go get” command may get error, like this:
-changed
-```text
+changed again
+```text?line_numbers=false
 C:\Users\xiaona>go get -v gopkg.in/fatih/pool.v2
 Fetching https://gopkg.in/fatih/pool.v2?go-get=1
 https fetch failed.
