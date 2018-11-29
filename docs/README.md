@@ -1,7 +1,5 @@
-# My Golang
+# My Golang Playground
 
-md  test
-```
-some code example
-```
-[Link Text](https://mirkar.github.io/mygolang/subdir/)
+[Test](https://mirkar.github.io/mygolang/subdir/)
+
+[How To](https://mirkar.github.io/mygolang/howtos/)
