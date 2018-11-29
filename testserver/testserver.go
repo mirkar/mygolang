@@ -34,8 +34,10 @@ import (
 	"net/http"
 )
 
+// BUG(r): The rule Title uses for word boundaries does not handle Unicode punctuation properly.
 func main() {
-
+	// file system roots
+	// TODO(gri) consider the invariant that goroot always end in '/'
 	port := flag.String("port", ":8082", "port number")
 	flag.Parse()
 	fmt.Println("port", *port)

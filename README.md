@@ -8,4 +8,7 @@ https://mirkar.github.io/mygolang/
 go install github.com/mirkar/mygolang/hello
 ```
 
+https://godoc.org/github.com/fluhus/godoc-tricks#Code_blocks
+
+https://blog.golang.org/godoc-documenting-go-code
 
