@@ -2,25 +2,12 @@
 
 #### Set proxy when executing “go get” command
 
-In Windows, if you have configured proxy for connecting Internet, then executing “go get” command may get error, like this:
-changed again
-```text
-C:\Users\xiaona>go get -v gopkg.in/fatih/pool.v2
-Fetching https://gopkg.in/fatih/pool.v2?go-get=1
-https fetch failed.
-Fetching http://gopkg.in/fatih/pool.v2?go-get=1
-import "gopkg.in/fatih/pool.v2": http/https fetch: Get http://gopkg.in/fatih/poo
-l.v2?go-get=1: dial tcp 107.178.216.236:80: ConnectEx tcp: A connection attempt
-failed because the connected party did not properly respond after a period of ti
-me, or established connection failed because connected host has failed to respon
-d.
-package gopkg.in/fatih/pool.v2: unrecognized import path "gopkg.in/fatih/pool.v2
-"
-```
+In Windows, if you have configured proxy for connecting Internet, then executing “go get” command may get error
+
 
 The solution is set “http_proxy” and/or “https_proxy” environment variables according to your reality need:
 
-```
+```text
 C:\Users\xiaona>set https_proxy=https://web-proxy.corp.xx.com:8080/
 
 C:\Users\xiaona>set http_proxy=https://web-proxy.corp.xx.com:8080/
