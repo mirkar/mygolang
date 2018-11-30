@@ -12,3 +12,6 @@ https://godoc.org/github.com/fluhus/godoc-tricks#Code_blocks
 
 https://blog.golang.org/godoc-documenting-go-code
 
+
+godoc -http=:6060 -notes"TODO|BUG"
+
