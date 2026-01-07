@@ -12,3 +12,4 @@ nav:
       - Getting started: 'howtos/README.md'
       - View subdir: 'subdir/README.md'
       - In theRoot: 'about.md'
+      - 'User Guide': 'user-guide/introduction.md'
