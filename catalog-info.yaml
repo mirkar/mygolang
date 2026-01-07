@@ -8,7 +8,7 @@ metadata:
     github.com/project-slug: mirkar/mygolang
     backstage.io/techdocs-ref: dir:.
   links:
-    - url: https://www,mirkarimov.com
+    - url: https://www.mirkarimov.com
       title: My Dashboard
       icon: dashboard
 spec:
