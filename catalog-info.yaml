@@ -7,6 +7,10 @@ metadata:
   annotations:
     github.com/project-slug: mirkar/mygolang
     backstage.io/techdocs-ref: dir:.
+  links:
+    - url: https://www,mirkarimov.com
+      title: My Dashboard
+      icon: dashboard
 spec:
   type: website
   owner: development
