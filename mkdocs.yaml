@@ -1,0 +1,12 @@
+site_name: 'Mygolang-app'
+site_description: 'Main documentation for my Go lang playground samples'
+repo_url: https://github.com/mirkar/mygolang
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
