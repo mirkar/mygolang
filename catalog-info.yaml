@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mygolang
+  description: My golan exercises
+  # Example for optional annotations
+  annotations:
+    github.com/project-slug: mirkar/mygolang
+spec:
+  type: website
+  owner: development
+  lifecycle: experimental
