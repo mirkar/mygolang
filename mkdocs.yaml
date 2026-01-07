@@ -9,4 +9,4 @@ plugins:
 # For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
 nav:
   - Overview:
-      - Getting started: 'README.md'
+      - Getting started: 'howtos/README.md'
