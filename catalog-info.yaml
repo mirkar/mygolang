@@ -13,5 +13,5 @@ metadata:
       icon: dashboard
 spec:
   type: website
-  owner: development
+  owner: mirkarimov@gmail.com
   lifecycle: experimental
