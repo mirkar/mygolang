@@ -13,5 +13,5 @@ metadata:
       icon: dashboard
 spec:
   type: website
-  owner: user:mirkar
+  owner: user:Dmitriy Mirkarimov
   lifecycle: experimental
